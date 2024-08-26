@@ -3,7 +3,7 @@ I am a Graduate Assistant II at the [Faircloth Lab](https://www.faircloth-lab.or
 
 Currently TA for FOUNDATIONAL COMPUTING BIOLOGY
 
-Main account [Vinay K L](github.com/stachyris)
+Main account [Vinay K L](https://github.com/stachyris)
 
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](https://orcid.org/0000-0001-6186-9250)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-gray?style=flat-square&logo=GoogleScholar)](https://scholar.google.com/citations?hl=en&pli=1&user=cPIH1ioAAAAJ)
